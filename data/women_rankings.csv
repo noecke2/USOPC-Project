@@ -1,0 +1,842 @@
+Rank,First_Name,Last_Name,YOB,NOC,TotalPoints,EvsCurr,EvsPrev,PtsCurr,PtsPrev
+1,Flora,Duffy,1987,BER,5545.76,5,4,4325,1220
+2,Georgia,Taylor-Brown,1994,GBR,5405.95,6,3,4977,429
+3,Taylor,Spivey,1991,USA,5337.53,6,5,4135,1202
+4,Beth,Potter,1991,GBR,4980.99,6,6,4093,888
+5,Taylor,Knibb,1998,USA,4700.7,4,4,3447,1254
+6,Sophie,Coldwell,1995,GBR,4486.64,6,5,3278,1209
+7,Cassandre,Beaugrand,1997,FRA,4339.23,6,5,3671,668
+8,Maya,Kingma,1995,NED,4061.93,6,4,3145,917
+9,Laura,Lindemann,1996,GER,3977.3,6,6,2857,1121
+10,Leonie,Periault,1994,FRA,3898.07,6,4,3068,830
+11,Emma,Lombardi,2001,FRA,3797.81,6,5,3409,388
+12,Lena,Meißner,1998,GER,3783.03,6,6,3289,494
+13,Miriam,Casillas García,1992,ESP,3565.1,6,3,3222,343
+14,Verena,Steinhauser,1994,ITA,3114.22,6,6,2450,664
+15,Kirsten,Kasper,1991,USA,3084.8,6,6,2212,872
+16,Summer,Rappaport,1991,USA,3054.02,6,5,2222,832
+17,Lisa,Tertsch,1998,GER,2975.29,6,6,2475,501
+18,Marlene,Gomez-Göggel,1993,GER,2747.22,6,6,1997,750
+19,Nina,Eim,1998,GER,2734.6,6,6,2252,482
+20,Julie,Derron,1996,SUI,2563.82,6,5,2017,547
+21,Anabel,Knoll,1996,GER,2555.84,6,6,1973,583
+22,Natalie,Van Coevorden,1992,AUS,2529.1,6,6,1896,633
+23,Alberte Kjær,Pedersen,1998,DEN,2512.81,6,6,1987,526
+24,Emy,Legault,1996,CAN,2462.11,6,6,2004,458
+25,Kate,Waugh,1999,GBR,2453.11,6,6,1853,600
+26,Vittoria,Lopes,1996,BRA,2358.92,6,5,2093,266
+27,Bianca,Seregni,2000,ITA,2344.23,6,6,1840,504
+28,Audrey,Merle,1995,FRA,2338.32,6,6,1802,537
+29,Erika,Ackerlund,1996,USA,2317.1,6,6,1765,552
+30,Olivia,Mathias,1998,GBR,2311.88,6,6,1796,516
+31,Luisa,Baptista,1994,BRA,2284.81,6,3,2105,180
+32,Julia,Hauser,1994,AUT,2262.71,6,5,1848,415
+33,Yuko,Takahashi,1991,JPN,2261.43,6,5,2031,230
+34,Annika,Koch,1999,GER,2155.72,6,6,1653,503
+35,Zsanett,Bragmayer,1994,HUN,2083.25,6,6,1425,659
+36,Nicole,Van Der Kaay,1996,NZL,2046.94,6,6,1334,712
+37,Jeanne,Lehair,1996,LUX,1967.24,6,6,1556,411
+38,Sandra,Dodet,1996,FRA,1967.03,6,4,1736,231
+39,Cathia,Schär,2001,SUI,1941.22,6,6,1739,203
+40,Valerie,Barthelemy,1991,BEL,1935.82,6,4,1722,213
+41,Ainsley,Thorpe,1998,NZL,1931.9,6,6,1491,441
+42,Lizeth,Rueda Santos,1994,MEX,1903.23,6,6,1521,383
+43,Sian,Rainsley,1997,GBR,1868.67,3,6,997,872
+44,Rosa Maria,Tapia Vidal,1997,MEX,1846.82,6,5,1601,246
+45,Gina,Sereno,1995,USA,1772.11,6,5,1452,320
+46,Sophie,Linn,1995,AUS,1736.76,6,4,1498,238
+47,Kira,Hedgeland,1998,AUS,1730.2,6,6,1295,435
+48,Emma,Jackson,1991,AUS,1696.88,6,6,1352,345
+49,Mathilde,Gautier,1995,FRA,1683.57,6,1,1658,26
+50,Ivana,Kuriackova,1994,SVK,1639.4,6,6,1327,313
+51,Petra,Kurikova,1991,CZE,1629.46,6,6,1396,234
+52,Maria Carolina,Velasquez Soto,1997,COL,1617.78,6,0,1618,0
+53,Xisca,Tous,1992,TUR,1617.63,6,6,1309,308
+54,Ilaria,Zane,1992,ITA,1600.22,6,3,1395,205
+55,Rachel,Klamer,1990,NED,1579.75,6,4,1248,332
+56,Ekaterina,Shabalina,1998,KAZ,1577.37,5,6,1148,429
+57,Elizabeth,Bravo,1987,ECU,1577.18,6,4,1305,272
+58,Selina,Klamt,2001,GER,1570.56,6,6,1301,269
+59,Charlotte,Mcshane,1990,AUS,1569.6,6,6,1121,448
+60,Barbara,De Koning,2002,NED,1536.75,6,6,1268,269
+61,Melanie,Santos,1995,POR,1526.64,6,6,1128,398
+62,Paulina,Klimas,1995,POL,1523.36,6,6,1016,507
+63,Jaz,Hedgeland,1995,AUS,1519.25,6,5,1164,355
+64,Dominika,Jamnicky,1992,CAN,1517.22,6,6,1192,325
+65,Yuka,Sato,1992,JPN,1506.36,6,6,1160,346
+66,Claire,Michel,1988,BEL,1484.02,6,2,1164,320
+67,Non,Stanford,1989,GBR,1465.39,1,5,650,815
+68,Shanae,Williams,1998,RSA,1446.99,6,6,1159,288
+69,Alissa,Konig,1996,SUI,1411.02,6,6,1099,312
+70,Nora,Gmür,2001,SUI,1407.56,6,6,1111,296
+71,Djenyfer,Arnold,1993,BRA,1383.35,6,6,1126,258
+72,Simone,Ackermann,1990,RSA,1371.9,6,6,968,404
+73,Minori,Ikeno,1997,JPN,1368.13,6,6,1012,356
+74,Xinyu,Lin,2002,CHN,1362.01,6,0,1362,0
+75,Sarika,Nakayama,2000,JPN,1347.15,6,6,946,401
+76,Lisa,Perterer,1991,AUT,1334.42,6,3,1171,163
+77,Tereza,Zimovjanova,1995,CZE,1328.49,6,5,1061,268
+78,Lea,Coninx,1998,FRA,1318.99,5,5,971,348
+79,Hiraku,Fukuoka,1994,JPN,1318.38,6,6,1022,297
+80,Hannah,Newman,2000,RSA,1317.76,6,5,996,322
+81,Maria,Tomé,2001,POR,1317.12,6,6,972,345
+82,Romina,Biagioli,1989,ARG,1314.92,6,1,1285,30
+83,Rani,Skrabanja,1998,NED,1313.24,6,6,1113,200
+84,Raquel,Solis Guerrero,1998,CRC,1306.23,6,6,1054,252
+85,Amelie,Kretz,1993,CAN,1300.28,6,4,992,308
+86,Tanja,Stroschneider,1990,AUT,1269.98,6,6,1031,239
+87,Costanza,Arpinelli,2000,ITA,1264.94,6,6,972,293
+88,Ellie,Hoitink,2000,AUS,1258.66,6,5,990,269
+89,Noelia,Juan,1996,ESP,1256.86,6,6,1075,181
+90,Cecilia Sayuri,Ramirez Alavez,2000,MEX,1255.19,6,3,994,261
+91,Leslie,Amat Alvarez,1992,CUB,1224.28,6,2,1136,89
+92,Eva,Daniels,2001,LUX,1223.6,5,6,1004,220
+93,Tanja,Neubert,2000,GER,1222.94,6,6,973,250
+94,Jolien,Vermeylen,1994,BEL,1206.15,6,6,1000,206
+95,Katie,Zaferes,1989,USA,1196.56,3,4,450,747
+96,Luisa,Iogna-Prat,1995,ITA,1190.87,6,6,841,350
+97,Sara,Roel,1996,MEX,1172.22,5,6,739,434
+98,Anahi,Alvarez Corral,2001,MEX,1166.11,6,5,928,238
+99,Juri,Ide,1983,JPN,1159.62,6,5,898,261
+100,Zuzana,Michalickova,2002,SVK,1157.11,6,6,966,191
+101,Marta,Pintanel Raymundo,1999,ESP,1153.42,6,6,977,176
+102,Roksana,Slupek,1999,POL,1151.79,6,6,735,417
+103,Anna,Godoy Contreras,1992,ESP,1149.86,6,5,959,190
+104,Romana,Gajdošová,1994,SVK,1146.42,6,6,897,249
+105,Angelica,Prestia,2002,ITA,1134.35,6,2,1092,43
+106,Sofia,Rodriguez Moreno,2001,MEX,1133.45,6,3,1031,102
+107,Olivia,Thornbury,1998,NZL,1131.05,6,2,1017,114
+108,Cecilia,Perez,1991,MEX,1130.22,6,2,1034,96
+109,Margareta,Bicanova,2001,SVK,1129.72,6,6,952,178
+110,Solveig,Løvseth,1999,NOR,1109.68,6,6,794,316
+111,Niina,Kishimoto,1995,JPN,1103.18,6,6,662,441
+112,Chisato,Nakajima,2003,JPN,1083.05,6,6,750,333
+113,Brea,Roderick,2002,NZL,1076.72,6,5,859,217
+114,Tilda,Månsson,2004,SWE,1075.32,6,3,972,103
+115,Bailee,Brown,2000,HKG,1050.57,6,2,890,161
+116,Cecilia,Santamaria Surroca,1997,ESP,1050.26,6,5,850,200
+117,Emma,Jeffcoat,1994,AUS,1046.73,6,0,1047,0
+118,Antoanela,Manac,1995,ROU,1024.33,6,2,959,66
+119,Erica,Hawley,1998,BER,1014.67,6,6,760,255
+120,Eva,Goodisson,1998,NZL,997.78,6,3,849,149
+121,Sophie,Alden,1998,GBR,995.12,4,6,610,385
+122,Kristelle,Congi,1993,FRA,988.89,6,0,989,0
+123,Miyu,Sakai,1999,JPN,975.76,6,6,586,389
+124,María,Casals Mojica,2002,ESP,975.12,6,6,785,190
+125,Bridget,Theunissen,2001,RSA,959.68,6,6,573,386
+126,Moira,Miranda,1998,ARG,939.46,6,0,939,0
+127,Natalia,Casas,1996,MEX,938.14,6,2,827,111
+128,Sara,Guerrero Manso,1997,ESP,934.11,6,5,818,116
+129,Charlotte,Derbyshire,2001,AUS,933.2,6,2,862,71
+130,Finja,Schierl,2002,GER,932.21,6,4,806,126
+131,Noemie,Beaulieu,2003,CAN,921.49,6,3,849,73
+132,Wen,Wei,1999,CHN,889.11,6,0,889,0
+133,Yifan,Yang,2000,CHN,888.92,4,0,889,0
+134,Carlotta,Missaglia,1999,ITA,879.61,5,6,625,255
+135,Adriana,Barraza,1993,MEX,874.21,6,2,820,54
+136,Macarena,Salazar,1995,CHI,873.62,6,4,653,221
+137,Céline,Kaiser,1998,GER,866.58,6,0,867,0
+138,Paula,Vega,2002,ECU,863.92,5,2,750,114
+139,Matilda,Offord,1999,AUS,857.89,3,4,570,288
+140,Mercedes,Romero Orozco,2002,MEX,853.51,5,2,787,67
+141,Maryna,Kyryk,1997,UKR,853.48,6,6,668,186
+142,Noémi,Sárszegi,1996,HUN,852.33,6,6,729,123
+143,Huiwen,Jia,2002,CHN,842.95,6,0,843,0
+144,Catalina,Salazar,1997,CHI,836.03,6,2,758,78
+145,Beatrice,Mallozzi,2000,ITA,834.79,5,6,571,264
+146,Iona,Miller,1999,GBR,816.4,6,6,571,246
+147,Sara,Vilic,1992,AUT,815.33,6,4,715,101
+148,Jimena Renata,De La Peña Schott,2006,MEX,810.92,6,0,811,0
+149,Gabrielle,Lumkes,1996,USA,808.16,6,1,783,25
+150,Basmla,Elsalamoney,1999,EGY,790.4,3,3,608,183
+151,Yan Yin Hilda,Choi,1994,HKG,776.33,6,1,695,82
+152,Anne,Holm,1999,DEN,775.73,6,0,776,0
+153,Luisa Daniela,Baca Vargas,2001,MEX,775.25,4,2,662,113
+154,Giovanna,Lacerda,2002,BRA,772.12,6,0,772,0
+155,Marit,Van Den Berg,2001,NED,769.57,6,6,628,141
+156,Paula,Jara,1997,ECU,763.03,6,3,598,165
+157,Jessica,Ewart-McTigue,2001,AUS,755.68,6,5,528,227
+158,Kseniia,Levkovska,1989,UKR,748.59,5,4,574,174
+159,Jolanda,Annen,1992,SUI,747.17,2,5,233,514
+160,Sophia,Howell,2002,CAN,741.34,6,3,695,46
+161,Márta,Kropkó,2003,HUN,733.93,6,1,729,5
+161,Lotte,Miller,1996,NOR,733.93,2,4,417,317
+163,Charlotte,Hall,2003,HKG,730.72,6,1,671,60
+164,Natalia,Castro Santos,2002,ESP,727.39,6,3,682,45
+165,Therese,Feuersinger,1998,AUT,725.9,6,2,688,38
+166,Vicky,Van Der Merwe,1989,RSA,721.18,4,0,721,0
+167,Olivia,Cummings,2002,NZL,719.96,6,3,617,103
+168,Zsófia,Kovács,1988,HUN,718.69,6,2,689,30
+169,Hannah,Howell,2001,NZL,716.77,6,3,587,130
+170,Sophia,Green,2000,GBR,713.95,6,6,446,268
+171,Chi Wen,Chang,1998,TPE,711.68,4,4,510,202
+172,Hannah,Knighton,2000,NZL,700.76,6,2,633,68
+173,Yoshiko,Eda,1993,JPN,697.09,6,1,632,65
+174,Genesis Carolina,Ruiz Volcan,1993,VEN,696.8,6,0,697,0
+175,Jessica,Romero Tinoco,1998,MEX,681.15,5,6,394,287
+176,Hanne,De Vet,1998,BEL,674.89,6,6,421,254
+177,Lydia,Russell,2002,USA,669.61,6,0,670,0
+178,Sarah-Jane,Walker,1995,RSA,669.53,2,1,624,46
+179,Edda,Hannesdottir,1994,ISL,665.25,6,3,575,90
+180,Sofiya,Pryyma,1998,UKR,660.28,5,4,528,132
+181,Erin,McConnell,2000,IRL,656.06,6,5,597,59
+182,Jessica,Learmonth,1988,GBR,654.07,0,4,0,654
+183,Aleisha,Wesley,1999,AUS,652.03,5,3,595,57
+184,Meiyi,Lu,2002,CHN,642.87,5,0,643,0
+185,Julia,Bröcker,2003,GER,637.11,5,2,603,34
+186,Rosa Elena,Martinez Melchor,1995,VEN,634.81,6,0,635,0
+187,Ana Maria Valentina,Torres Gomez,2001,MEX,622.74,5,1,601,21
+188,Quinty,Schoens,1999,NED,622.68,3,6,370,252
+189,Asia,Mercatelli,2000,ITA,617.63,6,3,553,64
+190,Amber,Schlebusch,2001,RSA,616.32,3,2,558,58
+191,Katharina,Möller,2001,GER,614.89,4,5,396,219
+192,Margot,Garabedian,1996,CAM,612.93,4,1,570,43
+193,Manami,Hayashi,2004,JPN,608.14,6,0,608,0
+194,Zuzanna,Sudak,2001,POL,599.93,6,3,543,57
+195,Sofía,Aguayo Mauri,1997,ESP,599.62,6,5,482,118
+196,Colette,Reimer,2001,CAN,599.19,6,2,564,35
+197,Alice,Betto,1987,ITA,598.85,0,6,0,599
+198,Fumika,Matsumoto,1995,JPN,596.41,6,2,489,108
+199,Diana,Castillo,1993,COL,591.8,6,3,457,135
+200,Robin,Dreijling,2002,NED,588.99,6,5,527,62
+201,Alina,Khakimova,1997,UZB,582.75,4,3,444,139
+202,Marta,Lagownik,1995,POL,567.96,6,4,521,47
+203,Daniela,Moya Chamorro,2002,CHI,565.58,6,1,542,23
+204,Kaidi,Kivioja,1993,EST,564.04,6,2,481,83
+205,Iria,Rodriguez,1999,ESP,562.3,3,6,360,203
+206,Marlen Alejandra Abigail,Aguilar Bolaños,2002,GUA,560.73,6,0,561,0
+207,Marianny Giuseppina,Antonelli Urriola,1993,VEN,558.24,6,0,558,0
+208,Madalena Amaral,Almeida,1998,POR,553.4,6,2,502,51
+209,Luma,Guillen,1997,BRA,540.27,5,0,540,0
+210,Madisen,Lavin,2000,USA,532.2,4,3,433,99
+211,Paula,Del Pozo Borrachero,2002,ESP,527.42,6,3,455,73
+212,Candice,Denizot,2002,FRA,526.32,3,4,406,121
+213,Manami,Iijima,1992,GUM,521.99,5,0,522,0
+214,Valentina,Riasova,1998,RUS,518.5,0,6,0,519
+215,Rebecca,Beti,2002,SUI,515.41,6,3,443,73
+216,Dominika,Peszleg,2002,HUN,511.37,6,2,447,64
+217,Gabrielle,Lemes,2002,BRA,510.38,5,3,384,126
+218,Anja,Weber,2001,SUI,506.61,6,0,507,0
+219,Maïra,Carreau,2003,CAN,503.63,5,3,444,59
+220,Iratxe,Arenal Arribas,2001,ESP,502.63,6,6,378,125
+221,Gwen,Jorgensen,1986,USA,498.8,3,0,499,0
+222,Jule,Behrens,2003,GER,497.77,4,3,337,161
+223,Grace,Walther,1998,USA,489.29,6,4,343,146
+224,Kamille,Larocque,2000,CAN,482.07,5,1,405,77
+225,Tamara,Gorman,1996,USA,479.95,2,3,304,176
+226,Bivian Andrea Luisita,Diaz Fuentes,2005,GUA,478.65,6,0,479,0
+227,Vicky,Holland,1986,GBR,477.54,0,3,0,478
+228,Josseline Michelle,Yuqui Peralta,2002,ECU,476.98,4,2,402,75
+229,Inês,Rico,2002,POR,470.61,6,2,455,15
+230,Marion Kim,Mangrobang,1991,PHI,466.49,6,2,391,76
+231,Dominga Elena,Jacome Espinoza,2005,CHI,460.12,3,0,460,0
+232,Zoe,Adam,2005,PUR,459.34,6,1,446,13
+233,Paola,Diaz,1992,MEX,445.98,3,1,405,41
+234,Fanni,Szalai,2008,HUN,440.67,2,0,441,0
+235,Magdalena,Sudak,2000,POL,440.27,5,6,330,110
+236,Alzbeta,Hruskova,2000,CZE,432.74,6,6,353,79
+237,Estelle,Perriard,1995,SUI,429.49,5,3,322,107
+238,Yejin,Park,2000,KOR,422.71,3,1,397,26
+239,Karolina Helga,Horváth,2002,HUN,419.14,5,1,405,14
+240,Karla,Ruiz Gaona,1995,MEX,414.4,5,1,401,13
+241,Anqi,Huang,2001,CHN,410.5,2,0,411,0
+242,Bianca,Bogen,1998,GER,400.93,3,6,267,134
+243,Hollie,Elliott,1999,GBR,399.83,2,4,262,138
+244,Annabel,Morton,2000,GBR,393.65,5,4,237,157
+245,Daisy,Davies,2002,GBR,390.54,4,3,357,33
+246,Ji Yeon,Kim,1990,KOR,385.71,4,0,386,0
+247,Isabel,Rodriguez Silverio,2003,CUB,377.65,4,0,378,0
+248,Jessica,Fullagar,2000,GBR,372.18,3,0,372,0
+249,Julia,Kekkonen,2000,FIN,371.69,5,3,345,27
+250,Julie,Staub,1986,MRI,370.68,4,2,342,29
+251,Wing To,Cho,2001,HKG,370.43,4,1,333,37
+252,Nataliia,Kolesova,2001,CAN,369.42,5,2,278,92
+253,Pauline,Courret,2005,HKG,368.93,4,0,369,0
+254,Helena,Carvalho,1995,POR,368.73,6,3,298,70
+255,Cade,Wright,2003,HKG,368.58,4,1,325,44
+256,Annie,Kelly,1994,USA,362.63,4,3,285,78
+257,Marcela,Alvarez Solis,2003,MEX,362.29,4,2,291,71
+258,Celia,Merle,1999,FRA,358.89,3,4,260,98
+259,Lucy,Charles-Barclay,1993,GBR,357.15,0,2,0,357
+260,Andrea,Hansen,1982,NZL,356.61,2,3,179,178
+261,Faith,Dasso,2004,USA,351.04,3,4,246,105
+262,Sharon,Spimi,1997,ITA,349.19,2,6,93,256
+263,Bethany,Cook,2004,GBR,346.98,4,2,328,19
+264,Ai,Ueda,1983,JPN,343.13,0,5,0,343
+265,Han,Wang,2001,CHN,341.29,4,0,341,0
+266,Michaela,Sterbova,1999,CZE,341.11,5,3,297,44
+267,Katrien,Maes,1993,BEL,338.51,6,0,339,0
+268,Annie,Fuller,1997,USA,337.67,4,1,318,20
+269,Ivana,Granosa,2000,CRO,334.71,4,3,296,39
+270,Carolyn,Hayes,1988,IRL,333.06,0,3,0,333
+271,Fernanda,Orellana,2004,CHI,326.79,5,0,327,0
+272,Heidi,Juránková,2002,CZE,325.57,4,4,252,74
+273,Yuliya,Golofeeva,1996,RUS,324.27,0,6,0,324
+274,Kelly-Ann,Perkins,1992,AUS,322.84,0,4,0,323
+275,Diana,Isakova,1999,RUS,320.07,0,6,0,320
+276,Anouk,Sterkers,2003,FRA,317.09,2,0,317,0
+277,Stine,Dale,1998,NOR,316.78,5,6,197,120
+278,Michelle,Stratton,1991,USA,310.72,4,0,311,0
+279,Silke,De Wolde,2001,NED,309.83,4,4,225,85
+280,Julia,Munhoz,2005,BRA,306.45,3,0,306,0
+281,Michelle,Flipo,1988,MEX,306.34,0,6,0,306
+282,Reika,Shiraishi,2001,JPN,303.91,4,0,304,0
+283,Nicola,Spirig,1982,SUI,303.86,0,2,0,304
+284,Liberty,Ricca,2001,USA,302.95,2,5,135,168
+285,Xinying,Yu,2002,CHN,302.41,3,0,302,0
+286,Myral,Greco,2003,ITA,302.34,3,0,302,0
+287,Tjasa,Vrtacic,2000,SLO,300.23,4,4,235,66
+288,Maddison,Yarrow,1998,AUS,296.56,3,2,255,41
+289,Chloe,Bateup,2003,AUS,295.89,2,1,272,24
+290,Rhianna,Hepburn,2004,AUS,295.05,2,1,268,27
+291,Tilly,Anema,2001,GBR,293.72,2,1,248,46
+292,Sophie,Spencer,2004,NZL,292.71,3,1,270,23
+293,Hye Rim,Jeong,1999,KOR,291.5,4,1,261,30
+294,Leana,Bissig,1999,SUI,291.01,4,2,270,21
+295,Vendula,Frintova,1983,CZE,290.14,0,3,0,290
+296,Kim,Van 't Verlaat,2001,NED,285.71,4,4,225,61
+297,Eva,Cornelisse,1997,NED,279.92,6,3,234,46
+298,Hagar,Cohen Kalif,2000,ISR,274.01,6,0,274,0
+299,Madison,Keightley,2001,NZL,273.73,4,2,194,80
+300,Ilona,Hadhoum,2004,FRA,273.41,2,2,231,43
+301,Claudia,Rivas,1989,MEX,272.02,2,4,129,143
+302,Valentina,Alvarez Valencia,2000,COL,269.55,3,0,270,0
+303,Alexandrine,Coursol,2001,CAN,269.38,2,5,122,147
+304,Kahina,Mebarki,1987,ALG,269.22,3,0,269,0
+305,Aviv,Levi,2003,ISR,266.1,4,3,241,26
+306,Tsudoi,Miyazaki,1996,JPN,265.32,2,5,84,182
+307,Kotomi,Anzai,2004,JPN,264.55,2,2,179,86
+308,Nadezhda,Bekmaganbetova,2000,KAZ,264.32,1,3,102,162
+309,Katie,Rodda,2001,GBR,260.98,4,0,261,0
+310,Siyi,Zhang,2005,CHN,260.07,2,0,260,0
+311,Desirae,Ridenour,1999,CAN,257.85,2,0,258,0
+312,Raven,Alcoseba,2002,PHI,257.51,3,0,258,0
+313,Himeka,Sato,2001,JPN,250.54,3,1,210,41
+314,Victoria,Gillies,2000,AUS,245.91,2,2,200,46
+315,Marcela,Peñafiel,2003,ECU,245.14,3,0,245,0
+316,Kira,Gupta-Baltazar,2002,CAN,244.95,4,3,164,81
+317,Appoline,Foltz,2003,FRA,240.33,3,1,205,36
+318,Tünde,Bukovszki,2000,HUN,236.1,5,1,213,23
+319,Emma,Hogan,2000,AUS,235.44,0,6,0,235
+320,Lina,Völker,1998,GER,233.53,4,1,167,67
+321,Pauline,Landron,1999,FRA,231.74,2,1,218,13
+322,Briana,Mow,2004,AUS,231.49,2,2,182,50
+323,Paula,Herrero Aguirre,1996,ESP,230.81,3,1,217,13
+324,Tara,Sosinski,2003,AUS,230.79,1,1,203,28
+325,Maaike,Vooren,1991,NED,228.7,6,0,229,0
+326,Laura,Holánszky,2002,HUN,227.37,4,0,227,0
+327,Baiba,Medne,1990,LAT,220.72,4,1,197,23
+328,Livia,Gross,2003,SUI,220.5,3,1,217,3
+328,Livia,Wespe,2002,SUI,220.5,3,2,206,15
+330,Jasmin,Weber,1998,SUI,218.88,6,0,219,0
+331,Luna,De Bruin,2003,NED,215,2,2,163,52
+332,Inga,Paplauske,1988,LTU,214.79,3,2,177,38
+333,Angharad,Llewellyn,1993,NZL,214.59,2,1,177,37
+334,Lizeth,Lopez Ortega,1997,MEX,208.02,3,0,208,0
+335,Lauren,Kerwick,1999,AUS,207.06,1,3,109,98
+336,Lisa,Berger,1993,SUI,204.51,1,5,51,153
+337,Anastasia,Gorbunova,1994,RUS,203.63,0,4,0,204
+338,Yuliya,Ozerova,2000,KAZ,203.5,1,2,88,116
+339,Clara,Normand,2003,CAN,201.12,2,4,101,100
+340,Niuska,Figueredo Bringa,2001,CUB,200.88,3,0,201,0
+341,Britney,Brown,2005,USA,198.78,2,1,182,17
+342,Yuliya,Yelistratova,1988,UKR,195.47,0,6,0,195
+343,Zoe,Metais,2005,HKG,193.71,3,0,194,0
+344,Severine,Bouchez,1994,BEL,190.6,4,2,135,55
+345,Unė,Narkūnaitė,2000,LTU,189.31,4,1,175,14
+346,Tallulah,Wright,2003,HKG,188.2,4,0,188,0
+347,Chiara,Lobba,2001,ITA,183.52,2,0,184,0
+348,Ines,Oliveira,1996,POR,182.4,4,4,133,50
+349,Marija,Lukina,1991,CRO,177.92,3,1,167,11
+350,Brittany,Warly,1993,CAN,176.51,1,2,142,34
+351,Henrika,Parviainen,1997,FIN,175.84,4,0,176,0
+352,Daryna,Moskalenko,1997,UKR,174.28,1,5,51,123
+353,Andrea Keylha,Morales Díaz,2005,GUA,172.51,3,0,173,0
+354,Shannon,Kelly,1994,IRL,172.09,2,2,146,27
+355,Clara,Carlquist,2003,DEN,171.55,4,1,167,4
+356,Raquel,Alzaga Criado,2002,ESP,166.31,2,2,152,14
+357,Izumi,Ikeguchi,2000,JPN,163.5,1,0,164,0
+358,Sarah,Mcclure,2001,NZL,161.74,2,0,162,0
+359,Natalia,Zych,2001,POL,161.54,4,3,139,22
+360,Milan,Agnew,1999,AUS,160.69,1,3,16,145
+361,Emma,Varga,1997,SWE,158.55,3,1,143,16
+362,Hye Rang,Kim,2000,KOR,157.99,2,0,158,0
+363,Renee,Tomlin,1988,USA,156.92,0,3,0,157
+364,Marie,Carlsson,1995,SWE,155.96,2,2,122,34
+365,Nika,Rimaj,2000,CRO,155.85,3,1,144,12
+366,Sian,Munks,1999,AUS,155.54,1,0,156,0
+367,Issy,Morris,1999,GBR,155.45,2,1,101,55
+368,Ariana,Borbón Quirós,2004,CRC,155.35,2,0,155,0
+369,Gyeongmin,Park,2002,KOR,154.66,3,0,155,0
+370,Melany Valeska,Tohom Castro,2005,GUA,154.41,2,0,154,0
+371,Mako,Hiraizumi,2003,JPN,154.19,2,0,154,0
+371,Elsa,Pena Vicente,2003,ESP,154.19,3,1,148,6
+373,Gyuri,Kim,1998,KOR,153.22,3,0,153,0
+374,María,López Faraudo,2005,MEX,151.72,2,0,152,0
+375,Désirée,Gmür,1992,SUI,151.06,5,0,151,0
+376,Brittany,Dutton,1997,AUS,150.33,0,4,0,150
+377,Ugne,Pauryte,2004,LTU,150.31,2,0,150,0
+378,Lydia,Musleh,1997,JOR,150,1,0,150,0
+379,Karel Alexa,Ramirez Bodden,2004,DOM,149.55,2,0,150,0
+380,Gillian,Sanders,1981,RSA,149.54,0,2,0,150
+381,Sara,Perez Sala,1988,ESP,148.52,2,1,111,38
+382,Kyleigh,Spearing,1998,USA,147.21,0,4,0,147
+383,Alessia,Orla,1992,ITA,147.1,1,1,111,36
+384,Hanna,Maksimava,1993,BLR,145.72,0,5,0,146
+385,Mengying,Zhong,1990,CHN,145.33,0,1,0,145
+386,Ursula,Trützschler,1997,GER,144.78,1,3,70,75
+387,Vanessa,Possberg,2003,SUI,143.55,4,2,128,15
+387,Yuan,Yuan,2002,CHN,143.55,2,0,144,0
+389,Alexandra,Poole,2002,USA,142.64,2,1,111,32
+390,Lotte,Wilms,1984,NED,137.83,0,3,0,138
+391,Iva,Djukić,2002,SRB,137.14,2,1,120,17
+392,Margareta,Vrablova,2005,SVK,132.71,2,2,63,69
+393,Lara Thekla,Ungewickell,2001,GER,131.78,3,0,132,0
+394,Barbara,Riveros,1987,CHI,130.99,0,2,0,131
+395,Joanna,Brown,1992,CAN,130.79,0,1,0,131
+396,Manon,Laporte,2005,FRA,130.17,2,0,130,0
+397,Yu-Ting,Pan,2003,TPE,129.8,2,0,130,0
+398,Maite,Kuestner,2003,GER,128.34,2,0,128,0
+399,Lizzy,Edge,2003,GBR,126.52,2,1,110,16
+400,Emilie,Morier,1997,FRA,125.49,0,2,0,125
+401,Arina,Shulgina,1991,KAZ,121.82,0,2,0,122
+402,Franka,Rust,2002,GER,120.59,1,0,121,0
+403,Chia-Chia,Chang,1995,TPE,120,0,2,0,120
+404,Anastasiya,Peycheva,1997,BUL,119.86,2,0,120,0
+405,Anna,Lindsay,1998,NZL,119.85,2,0,120,0
+406,Erika,Tanno,1989,JPN,119.8,2,0,120,0
+407,Fruzsina Dóra,Kovács,2002,HUN,119.55,3,0,120,0
+408,Helena,Moragas Molina,2003,ESP,118.46,1,3,35,84
+409,Magdalena,Früh,2000,AUT,117.28,0,6,0,117
+410,Emma,Olson-Keating,2004,AUS,116.57,1,2,79,38
+411,Amanda,Guaipacha,2003,ECU,115.77,1,1,65,51
+412,Ema,Podhorna,2002,SVK,114.92,3,1,102,13
+413,Francesca,Crestani,2000,ITA,114.9,3,2,105,10
+414,Chloe,Pollard,1997,IRL,114.5,2,3,77,38
+415,Anta,Ndiaye,1995,SEN,112.5,1,0,113,0
+415,Kareena,Othman,1998,JOR,112.5,1,0,113,0
+417,Ayame,Hayashi,2006,JPN,112.47,2,0,112,0
+418,Xinyi,Xu,2002,CHN,112.41,1,0,112,0
+419,Ailbhe,Carroll,1991,IRL,112.2,2,1,107,5
+420,Zoe Natalia,Bello Diaz,1996,VEN,112.08,2,0,112,0
+421,Alexandra,Razarenova,1990,RUS,110.83,0,2,0,111
+422,Gabriella,Jackson,2005,AUS,110.69,1,1,92,18
+423,Freya,Mckinley,2003,USA,110.03,2,0,110,0
+424,Solji,Om,2000,KOR,109.78,1,0,110,0
+425,Anastacia,Damm,2001,DEN,109.44,3,1,108,1
+426,Ellie,White,1999,GBR,108.17,1,0,108,0
+427,Hannah,Prosser,2004,NZL,108,1,0,108,0
+428,Sara,Navodnik,2005,SLO,107.95,1,1,96,12
+429,Maria Fernanda,Silvestre Maldonado,2004,GUA,107.66,2,0,108,0
+430,Megan,Foley,1990,USA,105.64,0,1,0,106
+431,María Teresa,Jiménez-Orta Guerrero,2003,ESP,105.59,2,0,106,0
+432,Dorka,Putnóczki,1999,HUN,104.33,3,3,70,34
+433,Maidi,Susset,2006,TAH,104.06,1,0,104,0
+434,Borbála,Sarcia,2001,HUN,102.86,3,0,103,0
+435,Anette,Zukker,1996,EST,100.24,2,1,80,20
+436,Sophie,Malowiecki,1997,AUS,99.98,0,2,0,100
+437,Felipa,Herrmann,2004,GER,99.15,1,0,99,0
+438,Mikayla,Messer,1999,AUS,98.7,2,0,99,0
+439,Pragnya,Mohan,1994,IND,98.62,1,1,54,45
+440,Gillian,Cridge,2001,USA,98.13,2,2,68,30
+441,Natasha,Bowyer,1994,NZL,97.43,1,0,97,0
+442,Katie Madison,Pattie,2007,FIJ,96.26,1,0,96,0
+443,Alanis,Siffert,2001,SUI,96.18,1,0,96,0
+444,Josephine,Seerig,2003,GER,95.23,2,0,95,0
+445,Yali,Vitkin,2004,ISR,94.11,2,2,81,13
+446,Rebecca,Jansen,2005,ARU,93.75,1,0,94,0
+446,Clara,Zubillaga,2001,URU,93.75,1,0,94,0
+448,Sarah-Lee,Hevey,1989,CAN,92.79,1,0,93,0
+449,Simona,Dolinar Majdič,1984,SLO,91.35,2,1,76,15
+450,Ana Sofia,Coboj  Rivera,2001,MEX,91.18,2,1,86,5
+451,Iva,Pavlovic,2005,SRB,89.85,1,1,76,14
+452,Shauna,Doellken O'Shea,1999,IRL,89.75,2,1,78,11
+453,Sif,Bendix Madsen,2001,DEN,89.52,1,1,60,30
+454,Sam,Mcinnes,2001,GBR,89.08,1,0,89,0
+454,Maira Alejandra,Vargas,1987,COL,89.08,1,0,89,0
+456,Jasmine,Greaves,2001,AUS,88.28,1,0,88,0
+457,Gene,Quiambao,2004,PHI,86.89,1,0,87,0
+458,Melanie,Agreda Herrera,2007,ECU,86.72,1,0,87,0
+458,Lucia,Muchari Aybar,2004,PER,86.72,1,0,87,0
+458,Natalia Andrea,Vargas Jiménez,2002,COL,86.72,1,0,87,0
+461,Madison,Toovey,2003,AUS,85.8,1,1,71,14
+462,Elena,Viejo Campos,2004,ESP,84.84,1,0,85,0
+463,Adriana N.,Acevedo,1998,PUR,84.69,2,0,85,0
+464,Bethan,Perera,1985,GIB,83.75,2,0,84,0
+465,Amy,Sloan,1992,USA,83.61,0,1,0,84
+466,Herlene Natasha,Yu,2002,SGP,83.36,1,0,83,0
+467,Noa,Cohen Livay,2004,ISR,82.8,3,1,71,11
+468,Maria,Alzaga Criado,2002,ESP,82.74,3,0,83,0
+469,Maria Clara,Abreu Borges Cunha,2007,BRA,82.4,1,0,82,0
+470,Linn,Suchomel,2003,SWE,81.74,1,3,65,17
+471,Maripaz,Bogantes Valverde,2006,CRC,80.21,1,0,80,0
+471,Camila,Romero Taveras,2000,DOM,80.21,1,0,80,0
+473,Ronnie,Zawlik,2000,ISR,79.8,2,1,69,11
+474,Helen,Liis,1992,EST,78.34,2,0,78,0
+475,Indie,Arbuckle,2004,AUS,77.11,1,0,77,0
+476,Marcela,Alvarez Saez,1999,CHI,77.04,1,1,48,29
+477,Leann,Dietzel,2003,GER,76.87,3,0,77,0
+478,Maria Cristina,Becerra Garzon,1996,COL,76.22,1,0,76,0
+479,Grete Maria,Savitsch,2004,EST,76.18,1,0,76,0
+480,Nora Romina,Nádas,2004,HUN,76.13,3,1,75,1
+481,Angelica,Olmo,1996,ITA,75.78,0,1,0,76
+482,Juliana,Jaramillo,2000,COL,74.2,1,0,74,0
+482,Kimberly Marcela,Lopez Grajales,2001,GUA,74.2,1,0,74,0
+482,Marjim Gabriela,Soto Ramos,1997,BOL,74.2,1,0,74,0
+485,Alexandra,Field,2005,AUS,73.14,1,0,73,0
+486,Ana,Ramos,1995,POR,73.03,2,2,48,26
+487,Amanda,Moro,2004,BRA,73.01,1,1,46,27
+488,Ekaterina,Ryazanova,2001,UZB,72.83,0,1,0,73
+489,Charlotte,Deldaele,1993,BEL,72.46,2,0,72,0
+489,Minna,Koistinen,1986,FIN,72.46,2,0,72,0
+491,Yi,Zhang,1987,CHN,72.05,0,1,0,72
+492,Claudie,Simard,1998,CAN,71.84,0,2,0,72
+493,Gabrielė,Garbauskaite,2002,LTU,71.66,2,0,72,0
+493,Katharina,Loidl,1999,AUT,71.66,2,0,72,0
+495,Matilde,Silva Santos,2004,POR,71.28,1,3,52,19
+496,Hannelore,Willen,2001,BEL,71.18,2,0,71,0
+497,Ida,Burrows,2001,SWE,70.82,0,4,0,71
+498,Mariana,Vargem,2001,POR,70.6,2,1,60,11
+499,Nancy,Lojano Tepan,2001,ECU,70.5,1,0,71,0
+500,Kajsa,Sophie Grønberg Christensen,2004,DEN,70.47,1,0,70,0
+501,Georgie,Fredricks,2003,AUS,69.81,0,3,0,70
+502,Dana,Prikrylova,2003,CZE,69.31,1,3,40,29
+503,Nele,Dequae,2003,BEL,69.1,2,0,69,0
+504,Maram,Elshafei,2002,EGY,68.84,1,1,50,19
+505,Diana Aracely,Idrovo Leon,2002,ECU,68.63,1,0,69,0
+505,Sofia Esmeralda,Solis Grimaldo,2005,CRC,68.63,1,0,69,0
+507,Zahra Bulan,Aprillia Putri,2004,INA,68.28,1,0,68,0
+508,Nicoletta,Santonocito,1999,ITA,67.62,1,1,43,25
+509,Lili,Dobi,2004,HUN,66.45,2,2,51,16
+510,Paula,Sánchez García,2003,ESP,66.36,1,3,35,32
+511,Bridie,Crew,2006,AUS,65.98,1,0,66,0
+511,Nathalie,Zwicky,2003,SUI,65.98,2,1,64,2
+513,Anna,Goreva,2002,RUS,65.92,0,2,0,66
+514,Kristiāna,Maskava,2001,LAT,65.36,2,1,63,3
+515,Maruša,Klemenc,1994,SLO,64.05,2,0,64,0
+516,Naomi,Ruff,2004,USA,63.67,1,1,42,22
+517,Yaniuska Mared,Jimenez Arriechi,2006,VEN,63.49,1,0,63,0
+518,Sidney,Clement,2005,CAN,63.44,2,0,63,0
+519,Maeve,Gallagher,2001,IRL,63.16,0,6,0,63
+520,Tiina,Pohjalainen,1985,FIN,62.92,1,1,46,17
+521,Lucy,Evans,2005,NZL,62.58,1,0,63,0
+522,Gabriela,Ribeiro,2000,POR,61.7,0,4,0,62
+523,Mara,Krombach,2005,LUX,61.15,1,1,57,4
+524,Theresa,Moser,1993,AUT,61.1,2,1,51,10
+525,Pia,Totschnig,2000,AUT,60.56,0,3,0,61
+526,Sofía,Balmaceda,2001,CHI,60.32,1,0,60,0
+527,Amanda,Johansson,2005,SWE,60.3,1,0,60,0
+528,Natalia,Hidalgo Martínez,2001,ESP,59.91,1,3,25,35
+529,Imene,Maldji,1999,ALG,59.58,1,1,46,13
+530,Lydia,Drahovska,1999,SVK,59.41,1,2,43,17
+531,Kayla,Ribbink,2002,RSA,59.39,1,0,59,0
+532,Rebecca,Spence,1988,NZL,59.25,0,1,0,59
+533,Erin,Edminister,1990,USA,59.1,0,1,0,59
+534,Gayeon,Park,2003,KOR,58.84,1,0,59,0
+535,Valentina,Centeno Bolaños,2004,COL,58.72,1,0,59,0
+536,Isabelle,Bannister,2005,NZL,57.88,1,0,58,0
+537,Louisa Marie,Middleditch,2000,SGP,57.22,0,1,0,57
+538,Long,Hoi,1984,MAC,57.09,1,0,57,0
+539,Katja,Hočevar,1999,SLO,57.04,1,1,43,14
+540,Alicja,Ulatowska,1996,POL,56.72,0,3,0,57
+541,Alevtina,Stetsenko,2001,RUS,56.62,0,3,0,57
+542,Martha,Calton-Seal,2003,GBR,56.39,1,0,56,0
+543,Sophie,Perry,1993,AUS,55.84,0,2,0,56
+544,Rafaela,Capó,2004,CHI,55.8,1,0,56,0
+545,Jia-Chi,Kuo,1998,TPE,55.33,0,1,0,55
+546,Hasse,Fleerackers,2004,BEL,54.76,1,1,41,13
+547,Tegan,Gore,2001,RSA,54.55,0,1,0,55
+548,Valentina,Villa Ramirez,2006,COL,54.32,1,0,54,0
+549,Lucia,Acosta Suarez,2002,ESP,53.98,1,0,54,0
+550,Jenna,Buchanan,2004,USA,53.65,1,0,54,0
+551,Paige,Cranage,2003,AUS,53.46,1,1,28,25
+552,Delia-Oana,Dudau,2003,ROU,52.27,1,1,38,15
+553,Esra Nur,Gokcek,1996,TUR,52.13,0,3,0,52
+554,Giada,Stegani,2002,ITA,52.12,2,0,52,0
+555,Hanne Grete,Hanvere,2003,EST,51.36,1,1,35,17
+556,Pia,Wolf,1995,GER,51.15,1,0,51,0
+557,Céline,Marks,1996,CAN,51.03,1,2,20,31
+558,Józefina,Młynarska,2003,POL,50.11,2,1,49,1
+559,Anna,Bergsten,NA,SWE,50,1,0,50,0
+559,Amy,Cox,1994,BAR,50,1,0,50,0
+559,Hannah Judithe,Eriksen,1998,NOR,50,1,0,50,0
+559,Krista,Kuusijarvi,NA,MLT,50,1,0,50,0
+559,Natalie,Leonhardt,1990,GIB,50,1,0,50,0
+559,Bianka,Moreno,1997,PAN,50,1,0,50,0
+559,Katrín,Pálsdóttir,1984,ISL,50,1,0,50,0
+559,Adrianna,Skurosz,NA,COK,50,1,0,50,0
+559,Birsu,Ulkat,2001,TUR,50,1,0,50,0
+559,Becky,Woods,1988,IRL,50,1,0,50,0
+559,Gabriella,Zelinka,1991,HUN,50,1,0,50,0
+570,Melissa,Rios,1987,PUR,49.83,1,1,38,12
+571,Beatrice,Normand,2006,CAN,49.63,1,0,50,0
+572,Matilde,Locatelli,2003,ITA,49.51,2,0,50,0
+573,Anna,Witteveen,1999,NED,49.42,1,1,44,6
+574,Gabby,Martin,2004,USA,49.04,1,1,44,5
+575,Zoe,Clarke,2002,AUS,48.22,0,2,0,48
+576,Tereza,Svobodova,2000,CZE,47.88,1,1,35,13
+577,Karen Guadalupe,Castro Rivas,2005,MEX,47.74,1,0,48,0
+578,Magdalena,Stankovska,2004,MKD,47.02,1,1,35,12
+579,Miona,Bošković,2003,SRB,46.25,1,0,46,0
+579,Sigurlaug,Helgadóttir,1992,ISL,46.25,1,0,46,0
+579,Simone,Kumhofer,1983,AUT,46.25,1,0,46,0
+579,Claudia,Lainez,NA,PAN,46.25,1,0,46,0
+579,Szofia,Malatinszky,1979,HUN,46.25,1,0,46,0
+579,Kristina,Starheim,1989,NOR,46.25,1,0,46,0
+579,Ipek,Uyar,2002,TUR,46.25,1,0,46,0
+579,Siyu,Wang,2000,CHN,46.25,1,0,46,0
+579,Min Chuan,Wu,2000,TPE,46.25,1,0,46,0
+588,Charlotte,Faivre,2002,FRA,45.92,1,1,32,14
+589,Liliana Alejandra,Raga Prieto,1994,COL,45.1,0,2,0,45
+590,Piera,Charnay,2004,CHI,44.16,1,0,44,0
+591,Lilli,Gelmini,1994,ITA,44.04,1,1,40,4
+592,Gillian,Backhouse,1991,AUS,43.85,0,1,0,44
+593,Laura,Moreau,2003,FRA,43.77,1,0,44,0
+594,Kerttu-Liis,Laane,1997,EST,42.87,1,1,30,13
+595,Yixuan,Chen,2005,CHN,42.78,1,0,43,0
+595,Hui Ming,Chuang,2000,TPE,42.78,1,0,43,0
+595,Erika,Csomor,1973,HUN,42.78,1,0,43,0
+595,Jacqueline,Kallina,1990,AUT,42.78,1,0,43,0
+595,Raquel,Rocha,1993,POR,42.78,1,0,43,0
+595,Ine,Skjellum,1998,NOR,42.78,1,0,43,0
+595,Çığıl,Uzun,2002,TUR,42.78,1,0,43,0
+602,Sofia,Gelati,2003,BRA,42.46,1,0,42,0
+603,Luna,Sraka,2006,SLO,42.15,2,0,42,0
+604,Kanade,Sugiura,2007,JPN,41.8,1,0,42,0
+605,Hannah,Milic,2001,CAN,40.85,1,0,41,0
+606,Amelie,Hanf,2002,GER,40.41,1,0,40,0
+607,Tanja,Kompan,1981,SLO,39.57,1,0,40,0
+607,Liisa,Kull,1989,EST,39.57,1,0,40,0
+607,Brita Cecilie,Mustad,1975,NOR,39.57,1,0,40,0
+607,Rita,Simonics,2002,HUN,39.57,1,0,40,0
+607,Salla,Viitikko,1987,FIN,39.57,1,0,40,0
+612,Sofia,De Rosas,2005,ARG,39.28,1,0,39,0
+613,Erica,Byram,1999,GBR,39.24,0,1,0,39
+614,Alessandra,Tamburri,1996,ITA,39.2,0,3,0,39
+615,Hinaka,Masuda,2004,JPN,38.66,1,0,39,0
+616,Iveta,Fairaislova,1998,CZE,38.23,0,3,0,38
+617,Fanni,Soós,1999,HUN,37.98,1,1,19,19
+618,Hila,Aryas,2005,ISR,37.5,1,0,38,0
+618,Brenda,Bwire,1992,KEN,37.5,0,1,0,38
+618,Jane,Hansom,1969,SKN,37.5,1,0,38,0
+618,Nina,James,2007,GRN,37.5,1,0,38,0
+618,Sibora,Kadriu,NA,KOS,37.5,1,0,38,0
+618,Janel,Susastra,2005,SGP,37.5,1,0,38,0
+624,Sonja,De Koning,2005,NED,36.69,1,2,20,16
+625,Emely,Häger,1988,FIN,36.6,1,0,37,0
+625,Judit,Koronika,1984,HUN,36.6,1,0,37,0
+625,Ziyi,Lin,2006,CHN,36.6,1,0,37,0
+625,Yuki,Sugihara,1998,JPN,36.6,1,0,37,0
+629,Lina Maria,Raga,1988,COL,36.45,0,1,0,36
+630,Deborah,Fuller,1997,NZL,35.17,0,1,0,35
+631,Maria,Czesnik,1977,POL,34.94,0,2,0,35
+632,Karyn,Barnett,1986,GIB,34.69,1,0,35,0
+632,Ariana Roxana,Chis,2005,ROU,34.69,1,0,35,0
+632,Karina Del Valle,Clemant Materano,2001,VEN,34.69,1,0,35,0
+632,Minttu,Hukka,1995,FIN,34.69,1,0,35,0
+632,Inga,Karasek,1980,GRN,34.69,1,0,35,0
+632,Kelsey,Mitchell,2003,AUS,34.69,0,2,0,35
+632,Lirie,Peci,NA,KOS,34.69,1,0,35,0
+632,Carina,Reicht,2001,AUT,34.69,1,0,35,0
+632,Alice,Tinelli,2002,BRA,34.69,1,0,35,0
+641,Weronika,Ptaszyńska,2003,POL,34.66,1,1,33,2
+642,Bernadett,Józsa,2002,HUN,34.52,2,0,35,0
+643,Sophia,Weiler,2002,GER,34.34,1,1,19,16
+644,Rosa,Martìnez,1995,CHI,34.24,0,1,0,34
+645,Tamara,Gomez Garrido,1991,ESP,33.94,0,1,0,34
+646,Yui,Takeda,1999,JPN,33.74,1,0,34,0
+647,Vera,Vilaca,1998,POR,33.69,0,3,0,34
+648,Kinga,Bóna,2002,HUN,33.68,1,1,32,2
+649,Rose-Emanuelle,Binette,2003,CAN,33.61,1,0,34,0
+650,Sophie,Rohr,2000,GER,32.86,0,2,0,33
+651,Batya,Beard,1998,USA,32.33,1,0,32,0
+652,Vanesa,De La Torre,1995,MEX,32.1,0,1,0,32
+653,Katherine Vanesa,Clemant Materano,1998,VEN,32.09,1,0,32,0
+653,Altina,Demolli,NA,KOS,32.09,1,0,32,0
+653,Alexandra Sophie,Iofciu,2006,ROU,32.09,1,0,32,0
+653,Barbora,Jedlickova,2006,CZE,32.09,1,0,32,0
+653,Luiza,Pais Da Costa,1985,BRA,32.09,1,0,32,0
+653,Gabriela María,Rodríguez Rada,1994,GUA,32.09,1,0,32,0
+653,Stefania,Salazar,2005,SVK,32.09,1,0,32,0
+653,Tinkara,Stres,2005,SLO,32.09,1,0,32,0
+653,María,Varo Zubiri,1993,ESP,32.09,1,0,32,0
+653,Joanna,Woźniak,2001,POL,32.09,1,0,32,0
+663,Cristina,Ventura,1997,ITA,31.39,0,1,0,31
+664,Paola Judith,Zarate Leon,2006,MEX,31.09,1,0,31,0
+665,Elina,Turunen,2005,FIN,30.86,2,0,31,0
+666,Ema,Beke,2004,SVK,29.94,2,0,30,0
+667,Maria José,López Aguirre,2002,MEX,29.85,0,2,0,30
+668,Ella,Hnatyshyn,1997,CAN,29.83,1,1,24,6
+669,Anna Maria,Besenyei,2004,ROU,29.68,1,0,30,0
+669,Ema,Borscova,2005,SVK,29.68,1,0,30,0
+669,Morgan,Branchoux,1995,FRA,29.68,1,0,30,0
+669,Rafaela,Cananó Silva,2004,POR,29.68,1,0,30,0
+669,Viktorija,Kalvelyte,1990,LTU,29.68,1,0,30,0
+669,Giorgia,Priarone,1992,ITA,29.68,1,0,30,0
+669,Emma,Ryšávková,2005,CZE,29.68,1,0,30,0
+669,Roza,Sporcic,2005,CRO,29.68,1,0,30,0
+677,Monika,Bartol,2003,SLO,29.15,0,2,0,29
+678,Beatriz,Nunes Santos,2002,POR,28.84,0,2,0,29
+679,Katerina,Mickova,2004,CZE,28.79,1,1,27,1
+680,Alina,Codjambassis,2004,CHI,28.76,1,0,29,0
+681,Carmen,Macheriotou,1986,CYP,28.23,0,2,0,28
+682,Clara,Aulinas Prat,2001,ESP,27.45,1,0,27,0
+682,Susanne,Aumair,1992,AUT,27.45,1,0,27,0
+682,Ofek,Levinsky,2005,ISR,27.45,1,0,27,0
+682,Charlotte,Moore,2004,IRL,27.45,1,0,27,0
+682,Léna,Vaillier-Francois,2001,FRA,27.45,1,0,27,0
+682,Anika,Visser,2005,RSA,27.45,1,0,27,0
+688,Jessica,Pike,2003,AUS,27.17,0,1,0,27
+689,Adrienn,Hangya,2001,HUN,26.19,1,1,23,3
+690,Yiota,Chapoupi,1987,CYP,26.12,0,2,0,26
+691,Zeljka,Milicic,1983,CRO,25.97,0,2,0,26
+692,Grace,Hoitink,1997,AUS,25.13,0,1,0,25
+693,Pamela,Tastets,1981,CHI,25.07,0,1,0,25
+694,Kira,Ribbink,2003,RSA,23.8,0,1,0,24
+695,Caroline,Pohle,1995,GER,23.74,0,1,0,24
+696,Raz,Poradosu,1999,ISR,23.59,0,2,0,24
+697,Jessica,Ashworth,2000,AUS,23.25,0,1,0,23
+698,Raquel,Arostegui Gonzalez,1993,ESP,22.73,0,1,0,23
+699,Tabea,Huys,2005,AUT,22.57,1,1,14,9
+700,Gwen,Nothum,2006,LUX,22.13,1,0,22,0
+701,Mikhaela,De Oliveira,2004,RSA,22.02,0,1,0,22
+702,Camille,Buchanan,2002,USA,21.74,0,1,0,22
+703,Julia,Sanecka,2001,POL,21.29,0,3,0,21
+704,Makanaka,Mawere,2004,ZIM,20.36,0,1,0,20
+705,Marina,Muñoz Hernando,1999,ESP,20.07,1,0,20,0
+706,Raylan,Stroud,1996,CAN,20.04,1,0,20,0
+707,Isabel,Sterr,1998,GER,19.92,0,2,0,20
+708,Yaiza,Saiz Serrano,2000,ESP,19.45,0,1,0,19
+709,Josette Umi Njeri,Kiarie,2003,KEN,18.67,0,1,0,19
+709,Anta,Ndiaye,1995,SEN,18.67,0,1,0,19
+711,Kira,Ellis,2006,PHI,17.73,1,0,18,0
+712,Merili-Mai,Kivimets,2001,EST,17.62,0,2,0,18
+713,Jenna,Seymour-Smith,2002,RSA,17.42,0,1,0,17
+714,Vivian Wairimu,Hillier,2005,KEN,17.27,0,1,0,17
+715,Kyla,Roy,1998,CAN,16.98,0,1,0,17
+716,Pilar,Garcia Llorena,2000,ESP,16.82,0,1,0,17
+717,Marta,Bernardi,1989,ITA,16.67,0,1,0,17
+717,Natalia,Caballero,NA,URU,16.67,0,1,0,17
+717,Marta,Jekot,NA,RSA,16.67,0,1,0,17
+717,Natalia,Zbirnea,1980,MDA,16.67,0,1,0,17
+721,Laura,Rodríguez Salinas,1999,ESP,16.35,0,2,0,16
+722,Lotte,Vandekerckhove,2002,BEL,15.86,1,0,16,0
+723,Raphaelle,Rivard,2002,CAN,15.82,0,1,0,16
+724,Inga,Aukselyte,1985,LTU,15.42,0,1,0,15
+724,Anja,Davidovic,2001,SRB,15.42,0,1,0,15
+724,Sarissa,De Vries,1989,NED,15.42,0,1,0,15
+724,Federica,Frigerio,1998,ITA,15.42,0,1,0,15
+724,Hilary,Hughes,1986,IRL,15.42,0,1,0,15
+724,Sofya,Kryvetskaya,2001,BLR,15.42,0,1,0,15
+724,Aoi,Kuramoto,1988,JPN,15.42,0,1,0,15
+724,Cercasina,Nadejda,1973,MDA,15.42,0,1,0,15
+724,Ipek,Oztosun,1994,TUR,15.42,0,1,0,15
+724,Riana,Robertson,1983,RSA,15.42,0,1,0,15
+724,Paula-Brit,Siimar,1997,EST,15.42,0,1,0,15
+735,Yeva,Minich,2002,BLR,15.04,0,2,0,15
+736,Hanna,Breitner,2002,HUN,14.67,1,0,15,0
+737,Sarahí,Macias Arevalo,2004,MEX,14.63,0,1,0,15
+738,Molly,Elliott,2001,USA,14.39,0,1,0,14
+739,Emma,Ducreux,1999,FRA,14.34,0,2,0,14
+740,Aişenur,Acar,2000,TUR,14.26,0,1,0,14
+740,Anni,Antikainen,1988,FIN,14.26,0,1,0,14
+740,Liliia,Baranovska,1993,UKR,14.26,0,1,0,14
+740,Darya,Bychkova,1996,KAZ,14.26,0,1,0,14
+740,Hana,Kolarova,1988,CZE,14.26,0,1,0,14
+740,Daniela,Olivares,NA,URU,14.26,0,1,0,14
+740,Eleonora,Peroncini,1985,ITA,14.26,0,1,0,14
+740,Antonelle,Saporta,NA,RSA,14.26,0,1,0,14
+748,María Alejandra,Coral Mejia,2003,COL,13.62,0,1,0,14
+749,Nóra,Medvegy,2002,HUN,13.57,1,0,14,0
+750,Lucia,Gazol Torres,2002,MEX,13.53,0,1,0,14
+751,Skye,Wallace,2003,AUS,13.39,0,1,0,13
+752,Tombrapa,Grikpa,NA,NGR,13.33,0,1,0,13
+752,Justine,Guerard,1994,FRA,13.33,0,1,0,13
+752,Elisabeth,Mondon,1979,JAM,13.33,0,1,0,13
+752,Julia,Quarezemin Freccia,1998,BRA,13.33,0,1,0,13
+752,Aleksandra,Tanasoska,1999,MKD,13.33,0,1,0,13
+752,Amanda,Wheatley,1978,SAM,13.33,0,1,0,13
+752,Marlene,Wulst,2001,NOR,13.33,0,1,0,13
+759,Christine,Harding,NA,RSA,13.19,0,1,0,13
+759,Margaryta,Krylova,1994,UKR,13.19,0,1,0,13
+759,Aino,Kuljukka,1999,FIN,13.19,0,1,0,13
+759,Monika,Peterka,1997,SLO,13.19,0,1,0,13
+759,Indre,Sabaliunaite,NA,LTU,13.19,0,1,0,13
+759,Margie,Santimaria,1989,ITA,13.19,0,1,0,13
+759,Konami,Ushioda,1997,JPN,13.19,0,1,0,13
+766,Anri,Krugel,1995,"NAM",12.5,0,1,0,13
+766,Sandra,Mairhofer,1992,ITA,12.5,0,1,0,13
+766,Stavri,Pericleous,1989,CYP,12.5,0,1,0,13
+769,Charlotte,Brown,2004,NZL,12.38,0,1,0,12
+770,Ines Zineb,Aichour,1986,ALG,12.33,0,1,0,12
+770,Jozanne,Harris,1980,JAM,12.33,0,1,0,12
+772,Diede,Diederiks,1991,NED,12.2,0,1,0,12
+772,Helena,Kotopulu,1980,CZE,12.2,0,1,0,12
+772,Minami,Kubono,1997,JPN,12.2,0,1,0,12
+772,Valentyna,Molchanets,1996,UKR,12.2,0,1,0,12
+772,Sara,Savoia,2001,ITA,12.2,0,1,0,12
+772,Jordan,Tissink,2001,RSA,12.2,0,1,0,12
+772,Maisa,Tuliniemi,1996,FIN,12.2,0,1,0,12
+772,Ieva,Urbonavičiūtė,1993,LTU,12.2,0,1,0,12
+780,Lola,Sauvet,2002,FRA,12.17,0,2,0,12
+781,Imke,Jagau,1990,"NAM",11.56,0,1,0,12
+782,Joana,Miranda,2000,POR,11.55,0,1,0,12
+783,Grace,Henry,2006,AUS,11.45,0,1,0,11
+784,Julie,Iemmolo,1999,FRA,11.41,0,1,0,11
+785,Kateřina,Hadravova,2005,CZE,10.97,1,0,11,0
+786,Sophie,Burger,2005,AUS,10.92,0,1,0,11
+787,Benita,Windisch,1985,"NAM",10.7,0,1,0,11
+788,Lena-Maria,Aichner,1993,AUT,10.55,0,1,0,11
+788,Ana,Lucic,2001,CRO,10.55,0,1,0,11
+790,Hannah,Sakaluk,1997,USA,9.84,0,1,0,10
+791,Roni,Cohen,2001,ISR,9.76,0,1,0,10
+791,Klara,Hofer Mattsson,2000,SWE,9.76,0,1,0,10
+791,Méline,Mageux,2002,FRA,9.76,0,1,0,10
+791,Joana,Oliveira,2001,POR,9.76,0,1,0,10
+791,Aurora,Valinčić,2005,CRO,9.76,0,1,0,10
+796,Maja,Wąsik,2004,POL,8.68,1,0,9,0
+797,Kira,Stanley,2000,USA,8.42,0,1,0,8
+798,Elena Maria,Petrini,1992,ITA,8.34,0,1,0,8
+798,Laura,Swannet,1999,BEL,8.34,0,1,0,8
+800,Paola,Sacchi,2003,ITA,8.06,0,1,0,8
+801,Dóra,Pusztai,2006,HUN,8.03,1,0,8,0
+802,Sonia,Ruiz Melguizo,1991,ESP,7.72,0,1,0,8
+803,Rosie,Allen,2000,GBR,7.63,0,1,0,8
+804,Kristýna,Dvořáková,2005,CZE,7.43,1,0,7,0
+805,Meghan,Bazire,1998,FRA,7.22,0,1,0,7
+806,Chiara,Cocchi,2000,ITA,7.14,0,1,0,7
+807,Isla,Britton,2003,CAN,6.95,0,1,0,7
+808,Sara,Crociani,2005,ITA,6.87,1,0,7,0
+809,Franca,Henseleit,2002,GER,6.38,0,1,0,6
+810,Letizia,Martinelli,2003,TRI,6.36,1,0,6,0
+811,Michela,Pozzuoli,1997,ITA,6.04,0,1,0,6
+812,Johanna,Uherek,2004,GER,5.88,1,0,6,0
+813,Vanda,Krizkova,2006,CZE,5.44,1,0,5,0
+814,Anikó,Botka,2000,HUN,5.17,0,1,0,5
+815,Liis,Kapten,2006,EST,5.03,1,0,5,0
+816,Léa,Richard,2002,FRA,4.89,0,1,0,5
+817,Daria,Zakharova,2005,RUS,4.71,0,1,0,5
+818,Alexia,Beti,2004,SUI,4.52,0,1,0,5
+819,Claudia,Perez Pay,1999,ESP,4.47,0,1,0,4
+820,Sara,Magndal,2004,NOR,4.3,1,0,4,0
+821,Laura,Beti,2004,SUI,4.18,0,1,0,4
+822,Josefina Pilar,Flores Clemo,2002,CHI,4.03,0,1,0,4
+823,Catelle,Mourgues,2004,FRA,4,0,1,0,4
+824,Oleksandra,Zarovna,2004,UKR,3.98,1,0,4,0
+825,Yeva,Soroka,2006,UKR,3.68,1,0,4,0
+826,Nikolett,Ferenczi,2001,HUN,3.63,0,1,0,4
+827,Sára,Molnár,1999,HUN,3.24,0,1,0,3
+828,Laura Inez,Papp,2005,HUN,3.15,1,0,3,0
+829,Daniela,Leitāne,2000,LAT,3.11,0,1,0,3
+830,Merel,Veltman,2005,NED,2.91,1,0,3,0
+831,Monika,Dobrovolska,2000,UKR,2.87,0,1,0,3
+832,Esther,Gomez Gonzalez,2000,ESP,2.59,0,1,0,3
+833,Neža,Pogačar,2001,SLO,2.46,0,1,0,2
+834,Nadine,Klive,2002,GER,2.32,0,1,0,2
+835,Ashleigh,Irvine-Smith,2001,RSA,2.19,0,1,0,2
+836,Hannah,Koglbauer,2003,AUT,1.83,0,1,0,2
+837,Inna,Sysoeva,2004,RUS,1.45,0,1,0,1
+838,Aniek,Mars,2004,NED,1.24,0,1,0,1
+839,Larissa,Burtscher,2003,AUT,0.98,0,1,0,1
+840,Mari Mai,Ruus,2004,EST,0.72,0,1,0,1
+841,Maria,Gonçalves,2004,POR,0.67,0,1,0,1

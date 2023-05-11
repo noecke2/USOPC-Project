@@ -1,0 +1,46 @@
+Rank,Team Num,Country,NOC,TotalPoints,EvsCurr,EvsPrev,PtsCurr,PtsPrev
+1,Team,Great Britain,GBR,2930.84,3,3,2465,465.84
+2,Team,Germany,GER,2763.89,3,3,2085.75,678.14
+3,Team,France,FRA,2586.15,3,2,2334.5,251.65
+4,Team,New Zealand,NZL,2428.85,3,3,1917.13,511.72
+5,Team,Switzerland,SUI,2269.04,3,3,1866.51,402.53
+6,Team,United States,USA,2209.3,3,2,1747.4,461.9
+7,Team,Australia,AUS,2178.82,3,3,1781.25,397.57
+8,Team,Italy,ITA,2100.66,3,3,1467.2,633.46
+9,Team,Canada,CAN,1863.49,3,2,1566.06,297.43
+10,Team,Belgium,BEL,1683.64,3,3,1439.47,244.17
+11,Team,Denmark,DEN,1631.72,3,1,1403.55,228.17
+12,Team,Spain,ESP,1623.79,3,3,1301.31,322.48
+13,Team,Portugal,POR,1591.54,3,2,1450.11,141.43
+14,Team,Czech Republic,CZE,1445.4,3,3,1018.52,426.88
+15,Team,Netherlands,NED,1331.14,3,3,1030.43,300.71
+16,Team,Hungary,HUN,1316.77,3,2,1180.58,136.19
+17,Team,Norway,NOR,1301.93,3,0,1301.93,0
+18,Team,Japan,JPN,1298.89,3,0,1298.89,0
+19,Team,Mexico,MEX,1038.09,3,0,1038.09,0
+20,Team,Brazil,BRA,875.36,2,0,875.36,0
+21,Team,Austria,AUT,796.64,2,3,516.55,280.09
+22,Team,Sweden,SWE,664.72,3,2,554.62,110.1
+23,Team,South Africa,RSA,655.46,1,1,510,145.46
+24,Team,Morocco,MAR,641.75,1,1,471.75,170
+25,Team,Egypt,EGY,593.62,1,1,436.37,157.25
+26,Team,Poland,POL,537.78,2,3,314.72,223.06
+27,Team,"Hong Kong, China",HKG,504.13,1,0,504.13,0
+28,Team,China,CHN,466.32,1,0,466.32,0
+29,Team,Kazakhstan,KAZ,431.34,1,0,431.34,0
+30,Team,Ecuador,ECU,428.28,1,0,428.28,0
+31,Team,Algeria,ALG,403.64,1,0,403.64,0
+32,Team,Chinese Taipei,TPE,398.99,1,0,398.99,0
+33,Team,Chile,CHI,396.15,1,0,396.15,0
+34,Team,Argentina,ARG,366.44,1,0,366.44,0
+35,Team,Colombia,COL,338.96,1,0,338.96,0
+36,Team,Luxembourg,LUX,266.11,2,0,266.11,0
+37,Team,Russia,RUS,222.15,0,2,0,222.15
+38,Team,Tunisia,TUN,134.55,0,1,0,134.55
+39,Team,Slovenia,SLO,128.22,1,1,70.65,57.57
+40,Team,Slovakia,SVK,108.32,1,1,65.35,42.97
+41,Team,Estonia,EST,85.35,1,1,60.45,24.9
+42,Team,Israel,ISR,78.95,1,1,55.92,23.03
+43,Team,Ireland,IRL,67.28,0,1,0,67.28
+44,Team,Ukraine,UKR,62.24,0,1,0,62.24
+45,Team,Finland,FIN,51.72,1,0,51.72,0
