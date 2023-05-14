@@ -15,6 +15,8 @@ library(tidyverse)
 
 # Mixed Relay Rankings --------------------------------------------
 
+# Turns out these rankings are very outdated, so ultimately they were not used in the dashboard
+
 mixed_rankings_url <- "https://www.triathlon.org/rankings/mixed_relay"
 
 relay_rankings <- html_table(read_html(mixed_rankings_url), fill = T)[[1]] %>% 
@@ -62,7 +64,7 @@ women_rankings <- html_table(read_html(women_rankings_url), fill = T)[[1]] %>%
          Last_Name = "Last Name")
 
 
-# Write datasets to csv ---------------------------------------------------
+# Write datasets to xlsx ---------------------------------------------------
 
 write_list <- list(relay_rankings = relay_rankings,
                mixed_qual22 = mixed_qual22,
