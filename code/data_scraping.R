@@ -7,6 +7,7 @@
 
 
 library(rvest)
+library(xlsx)
 library(tidyverse)
 
 # https://triathlon.org/results/result/2022_world_triathlon_sprint_relay_championships_montreal/547005
@@ -68,6 +69,6 @@ write_list <- list(relay_rankings = relay_rankings,
                men_rankings = men_rankings,
                women_rankings = women_rankings)
 for(i in names(write_list)){
-  write_csv(write_list[[i]], paste0("data/",i,".csv"))
+  write.xlsx(write_list[[i]], paste0("data/",i,".xlsx"))
 }
 
